@@ -24,16 +24,21 @@ Configure [NFS](ConfigureNFS.html) for /home.
 
 Configure a [DHCP/TFTP](DNSmasq.html) server. (still work in progress)  
 
+Configure local repo '(coming soon)'
+
 ## Kickstarting the nodes
 Kickstart '(coming soon)'
 
 # Resource Management
-Hardware resource manager Torque '(coming soon)'  
+Hardware resource manager [Torque](Torque.html) '(coming soon)'  
 User resource manager Maui '(coming soon)'
 
 -or-
 
 Open Grid Scheduler '(coming soon)'
+
+# Parallel Computing
+[OpenMPI](OpenMPI.html)
 
 # Testing and benchmarking the cluster
 
@@ -42,7 +47,7 @@ Open Grid Scheduler '(coming soon)'
 
 # Administration of the cluster
 
-Puppet '(coming soon)'
+[Puppet](Puppet.html) '(coming soon)'
 
 Modules '(coming soon)'
 ## Configuring users

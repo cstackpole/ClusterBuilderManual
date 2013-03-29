@@ -12,3 +12,6 @@ Check the Puppet Labs yum repo for the latest version. Look for the 'puppetlabs-
 Once that is installed, we can now install puppet.
 
 >`$ sudo yum install puppet`  
+
+
+Add "cname=puppet,frontend01" to /etc/dnsmasq.conf for cname record.

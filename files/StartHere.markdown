@@ -10,6 +10,17 @@ The compute nodes should be as beefy as possible. The type of nodes completely d
 
 In the 'simple' setup, this guide will assume that you will be exporting your /home directory from the frontend via NFS. This is not the only option that you have. It is not uncommon to have a SAN or NAS on which /home is stored. Some build their own while others buy one. This is more a more advanced topic outside the scope of this guide at this time.
 
+## Guide example cluster
+This guide is assuming the following setup.
+
+Internet <-> Frontend01 <-> nodes
+
+The frontend is known as frontend01.cluster.domain and it will have a public side address of 192.168.1.201 and a private side network of 10.10.10.10.
+
+The nodes are known as node01, node02, node03, and node04.
+
+The example cluster that this guide uses will be based on a 64bit system, but the guide will attempt to mask the commands for those with 32bit systems. Anytime the variable $ARCH is shown, substitute it with either i386 or x86_64.
+
 ## Build a repo.
 If you are building a cluster of any significant size then you will be grabbing the same pacakges many times. This can be very time consuming for you over a slow internet connection and very load intensive on a community repository. In these situations it is often very useful having a local repository from which you can pull your packages from. Here is one way of building a [local repository](BuildARepo.html) (still a work in progress).
 

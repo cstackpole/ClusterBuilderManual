@@ -3,7 +3,7 @@
 
 This guide and documentation is under the Creative Commons Attribution-ShareAlike CC BY-SA license as found here: http://creativecommons.org/licenses/by-sa/3.0/legalcode
 
-The guide is (hosted here)[https://github.com/cstackpole/ClusterBuilderManual/wiki].
+The guide is hosted here: https://github.com/cstackpole/ClusterBuilderManual/wiki.
 
 ClusterBuilderManual
 ====================
@@ -16,7 +16,7 @@ Now I find that the notes are getting stale and have a few errors simply due to 
 
 To Get Started
 ==============
-To get started with this guide, head over to the (wiki page)[https://github.com/cstackpole/ClusterBuilderManual/wiki]
+To get started with this guide, head over to the wiki page: https://github.com/cstackpole/ClusterBuilderManual/wiki
 
 Shout-outs
 ==========

@@ -1,4 +1,9 @@
-﻿License
+NEWS
+====
+20130518 - I'm back! After a couple weeks of downtime due to my HD failing on my frontend node* I have the RMA replacement back in and working. Now to get back to working on this project.
+* Hey, this is my personal playground cluster. I can't afford high availibility on it quite yet. :-)
+
+License
 =======
 
 This guide and documentation is under the Creative Commons Attribution-ShareAlike CC BY-SA license as found here: http://creativecommons.org/licenses/by-sa/3.0/legalcode

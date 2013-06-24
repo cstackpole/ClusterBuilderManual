@@ -1,5 +1,6 @@
 NEWS
 ====
+20130624 - This manual is being built out of my notes that I have made and collected over the years. I am not a fan of how much work is duplicated in these notes. Especially since so much of it can and should be automated. Thus I have been spending quite a bit of time working on cleaning these notes up some before progressing any further. I will begin shortly revamping the notes to make it a simpler, smoother process.
 20130518 - I'm back! After a couple weeks of downtime due to my HD failing on my frontend node* I have the RMA replacement back in and working. Now to get back to working on this project. * Hey, this is my personal playground cluster. I can't afford high availibility on it quite yet. :-)   
 20130518 - Cluster rebuild is going smoothly. I made a ton of updates as I am going through the whole process after so much work has been put into it. Glad to see there were only a few minor points that needed to be adjusted.
 
